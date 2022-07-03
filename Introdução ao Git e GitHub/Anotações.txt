@@ -1,0 +1,3 @@
+Git é um sistema distribuído localmente o qual podemos condificar separadamente dos outros desenvolvedores e posteriomente compartilhar no GitHub.
+
+GitHub é um local em nuvem onde os desenvolvedores deixam seus códigos públicos ou privados, onde poderá receber colaboração de outros desenvolvedores.
